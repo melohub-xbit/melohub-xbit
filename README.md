@@ -2,7 +2,6 @@
 - 👀 I’m interested in Game Dev and App Dev. I worked with pygame so far, and created a 2D game.
 - 🌱 I’m currently learning to work with Unreal Engine, the basics of App Dev, and ML.
 - 💞️ I’m looking to collaborate on some projects that could help me learn about App Dev and Game Dev, and expand my skillset.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a huge fan of anime (open to recommendations :) ), and also love driving.
 
 <!---
