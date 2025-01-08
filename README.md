@@ -84,8 +84,19 @@
 - Integrated with Stability AI for creative content
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melohub-xbit&theme=tokyonight)
+
+### Activity & Streak
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melohub-xbit&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melohub-xbit&theme=tokyonight)
+
+### Languages & Contribution Graph
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melohub-xbit&layout=compact&theme=tokyonight)
+
+### Profile Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=melohub-xbit&theme=tokyonight)
+
+### Contribution Stats
+![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=melohub-xbit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## 🔬 Research Interests
 - 🧠 Explainable AI & Interpretable ML
