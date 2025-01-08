@@ -8,7 +8,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2B95FF&center=true&width=435&lines=Competitive+Programming)
 
 ## Page
-![Pages](https://melohub-xbit.github.io/melohub-xbit/)
+![Pages(https://img.shields.io/badge/GitHub%20Pages-Deployed-blue?logo=githubpages&logoColor=white)](https://melohub-xbit.github.io/melohub-xbit/)
 
 ## 👨‍💻 About Me
 - 🎓 CS Student @ IIIT Bangalore
