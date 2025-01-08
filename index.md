@@ -9,9 +9,7 @@
 
 # Page
 
-<img src="https://img.shields.io/badge/GitHub%20Pages-blue?logo=github&logoColor=white" alt="GitHub Pages" width="350">
-
-![NameBanner](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Yo!&reversal=false&fontColor=FFFFFF)
+<img src="https://img.shields.io/badge/GitHub%20Pages-blue?logo=github&logoColor=white" alt="GitHub Pages" width="250">
 
 # 👨‍💻 About Me
 - 🎓 CS Student @ IIIT Bangalore
