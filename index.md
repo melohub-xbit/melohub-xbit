@@ -7,9 +7,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2B95FF&center=true&width=435&lines=Competitive+Programming)
 
+# Page
 
 <img src="https://img.shields.io/badge/GitHub%20Pages-Deployed-blue?logo=github&logoColor=white" alt="GitHub Pages" width="150">
 
+![NameBanner](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Yo!&reversal=false&fontColor=FFFFFF)
 
 # 👨‍💻 About Me
 - 🎓 CS Student @ IIIT Bangalore
