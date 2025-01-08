@@ -7,8 +7,13 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2B95FF&center=true&width=435&lines=Competitive+Programming)
 
+# Page
+[![Name](https://img.shields.io/badge/melohub-green?style=flat)](https://melohub-xbit.github.io/melohub-xbit/)
 
-## 👨‍💻 About Me
+# 
+![NameBanner](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Yo!&reversal=false&fontColor=FFFFFF)
+
+# 👨‍💻 About Me
 - 🎓 CS Student @ IIIT Bangalore
 - 🌟 Passionate about Machine Learning, AI, and Blockchain
 - 🔭 Currently focused on Computer Vision & Full Stack Development
@@ -51,12 +56,12 @@
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Stability AI](https://img.shields.io/badge/Stability_AI-000000?style=for-the-badge&logo=stability-ai&logoColor=white)
 
-## 🏆 Achievements
+# 🏆 Achievements
 - 🥇 First Prize - ICDEC'24 International Vehicle Detection Challenge
 - 📚 Dean's Merit List - First Two Semesters
 - 🥈 Runner-up - Synergy'24 MERNIFY Full Stack Development Hackathon
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### YOLOGANg Vehicle Detection
 [![GitHub](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)](https://github.com/AspiringPianist/YOLOGANg_VehicleDetection.git)
@@ -83,6 +88,13 @@
 - Automated ad generation and campaign strategy
 - Integrated with Stability AI for creative content
 
+
+# 🔬 Research Interests
+- 🧠 Explainable AI & Interpretable ML
+- 👁️ Computer Vision for Autonomous Systems
+- ⛓️ Blockchain Interoperability
+- 🤖 Generative AI & NLP
+
 # 📊 GitHub Stats
 
 ### Languages & Contribution Graph
@@ -93,13 +105,6 @@
 
 ### Profile Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=melohub-xbit&theme=tokyonight)
-
-## 🔬 Research Interests
-- 🧠 Explainable AI & Interpretable ML
-- 👁️ Computer Vision for Autonomous Systems
-- ⛓️ Blockchain Interoperability
-- 🤖 Generative AI & NLP
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sai-velidanda-8h0oth-pu4/)
 
