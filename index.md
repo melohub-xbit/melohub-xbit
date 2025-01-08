@@ -1,15 +1,13 @@
 ![NameBanner](https://capsule-render.vercel.app/api?type=waving&height=223&color=timeGradient&text=Krishna%20Sai%20Velidanda&section=header&reversal=true&textBg=false&animation=fadeIn&rotate=0&fontAlign=45&fontAlignY=36&descAlignY=44&descAlign=58&strokeWidth=2)
 
 
+![WaveBanner](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Yo!&reversal=false&fontColor=FFFFFF)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2B95FF&center=true&width=435&lines=AI+%7C+ML+Developer)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2B95FF&center=true&width=435&lines=Full+Stack+Engineer)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2B95FF&center=true&width=435&lines=Competitive+Programming)
-
-# Page
-
-<img src="https://img.shields.io/badge/GitHub%20Pages-blue?logo=github&logoColor=white" alt="GitHub Pages" width="250">
 
 # 👨‍💻 About Me
 - 🎓 CS Student @ IIIT Bangalore
