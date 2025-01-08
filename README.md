@@ -83,20 +83,16 @@
 - Automated ad generation and campaign strategy
 - Integrated with Stability AI for creative content
 
-## 📊 GitHub Stats
-
-### Activity & Streak
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melohub-xbit&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melohub-xbit&theme=tokyonight)
+# 📊 GitHub Stats
 
 ### Languages & Contribution Graph
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melohub-xbit&layout=compact&theme=tokyonight)
 
-### Profile Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=melohub-xbit&theme=tokyonight)
-
 ### Contribution Stats
 ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=melohub-xbit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### Profile Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=melohub-xbit&theme=tokyonight)
 
 ## 🔬 Research Interests
 - 🧠 Explainable AI & Interpretable ML
@@ -105,8 +101,6 @@
 - 🤖 Generative AI & NLP
 
 ## 📫 Connect With Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnasaivelidanda@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sai-velidanda-8h0oth-pu4/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melohub-xbit)
