@@ -4,7 +4,7 @@ author:
   name: Krishna Sai
   username: melohub-xbit
 
-theme : jekyll-theme-time-machine
+theme : jekyll-theme-hacker
 
 markdown: kramdown
 logo: /assets/logo.png
