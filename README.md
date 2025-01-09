@@ -108,4 +108,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melohub-xbit)
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Innovating%20with%20Code&fontSize=50&animation=fadeIn&fontAlignY=48&desc=Building%20the%20Future%20with%20AI%20and%20Blockchain&descAlignY=70&descAlign=62)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Innovating%20with%20Code&fontSize=50&animation=fadeIn&fontAlignY=48&desc=Building%20the%20Future%20with%20AI&descAlignY=70&descAlign=62)
