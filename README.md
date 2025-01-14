@@ -98,11 +98,6 @@
 ### Languages & Contribution Graph
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melohub-xbit&layout=compact&theme=tokyonight)
 
-### Contribution Stats
-![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=melohub-xbit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### Profile Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=melohub-xbit&theme=tokyonight)
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sai-velidanda-8h0oth-pu4/)
 
