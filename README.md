@@ -15,7 +15,7 @@
 - 🎓 CS Student @ IIIT Bangalore
 - 🌟 Passionate about Machine Learning, AI, and Blockchain
 - 🔭 Currently focused on Computer Vision & Full Stack Development
-- 🎯 CGPA: 3.59/4.00
+- 🎯 CGPA: 3.44/4.00
 - 📚 Academics: Data Structures, Algorithms, Python, C, C++, Java, Probability and Statistics, Discrete Mathematics
 
 # 🛠️ Tech Stack
